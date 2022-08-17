@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, seja bem vindo! </h1>
-┌──┤ Quem Eu Sou ├─────────▰▰▰ <br>
+┌──┤ <strong>Quem Eu Sou</strong> ├─────────▰▰▰ <br>
 │<br>
 ├─▣ Estudante de Desenvolvimento de Sistemas;<br>
 ├─▣ Atualmente estudando Java |MySQL | Astah;<br>
@@ -9,7 +9,7 @@
 └───────────────────────────────▰▰▰<br>
 
 
-┌──┤ Social ├─────────▰▰▰<br>
+┌──┤ <strong>Redes Sociais</strong> ├─────────▰▰▰<br>
 │<br>
 ├─◈ <a href="https://www.instagram.com/jonas.a.jato/">Instagram</a><br>
 ├─◈ <a href="mailto:jonassartori2@gmail.com">E-Mail</a><br>
@@ -18,7 +18,7 @@
 │<br>
 └───────────────────────────────▰▰▰<br>
 
-┌──┤ Projetos ├───────▰▰▰<br>
+┌──┤ <strong>Projetos</strong> ├───────▰▰▰<br>
 │<br>
 ├─◈ <a href="https://github.com/jonasajato/Triangulo">Definir tipo de triângulo com base nos dados inseridos pelo usuário</a><br>
 ├─◈ <br>
