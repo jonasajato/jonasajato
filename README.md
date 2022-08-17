@@ -20,7 +20,7 @@
 
 ┌──┤ Projetos ├───────▰▰▰<br>
 │<br>
-├─◈ <br>
+├─◈ <a href="https://github.com/jonasajato/Triangulo">Definir tipo de triângulo com base nos dados inseridos pelo usuário</a><br>
 ├─◈ <br>
 ├─◈ <br>
 ├─◈ <br>
