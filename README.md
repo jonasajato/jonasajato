@@ -1,8 +1,10 @@
-<h1 align="center"> Olá, seja bem vindo! </h1>
+<h1 align="center"><strong> Olá, seja bem vindo! Me chamo <em><u>Jonas</u></em> :) </h1></strong>
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
+
 ┌──┤ <strong>Quem Eu Sou</strong> ├─────────▰▰▰ <br>
 │<br>
 ├─▣ Estudante de Desenvolvimento de Sistemas;<br>
-├─▣ Atualmente estudando Java |MySQL | Astah;<br>
+├─▣ Atualmente estudando Java | MySQL | Astah;<br>
 ├─▣ Professor de Hardware;<br>
 ├─▣ Apaixonado por tecnologia;<br>
 │<br>
