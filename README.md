@@ -23,7 +23,7 @@
 ┌──┤ <strong>Projetos em Aula</strong> ├───────▰▰▰<br>
 │<br>
 ├─◈ <a href="https://github.com/jonasajato/Triangulo">Definir tipo de triângulo com base nos dados inseridos pelo usuário</a><br>
-├─◈ <br>
+├─◈ <a href="https://github.com/jonasajato/op_logical_1">Operadores Lógicos: retorna True ou False</a><br>
 ├─◈ <br>
 ├─◈ <br>
 ├─◈ <br>
