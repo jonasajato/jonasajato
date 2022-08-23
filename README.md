@@ -22,7 +22,7 @@
 
 ┌──┤ <strong>Projetos em Aula</strong> ├───────▰▰▰<br>
 │<br>
-├─◈ <a href="<script src="https://gist.github.com/jonasajato/a82879c62321a0e2102da06013aa23e3.js"></script>">Definir tipo de triângulo com base nos dados inseridos pelo usuário</a><br>
+├─◈ <a href="https://gist.github.com/jonasajato/a82879c62321a0e2102da06013aa23e3.js">Definir tipo de triângulo com base nos dados inseridos pelo usuário</a><br>
 ├─◈ <br>
 ├─◈ <br>
 ├─◈ <br>
