@@ -26,7 +26,7 @@
 ├─◈ <a href="https://github.com/jonasajato/op_logical_1">Operadores Lógicos: retorna True ou False</a><br>
 ├─◈ <a href="https://github.com/jonasajato/quiz">Um quiz de perguntas e respostas</a><br>
 ├─◈ <a href="https://github.com/jonasajato/produto_preco">Liste 3 produtos com valores e o sistema vai imprimir qual é o mais caro</a><br>
-├─◈ <br>
-├─◈ <br>
+├─◈ <a href="https://github.com/jonasajato/fatorar">Fatorar um número</a><br>
+├─◈ <a href="https://github.com/jonasajato/switch_case.ex">Uso de Switch Case</a><br>
 │<br>
 └───────────────────────────────▰▰▰<br>
