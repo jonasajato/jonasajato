@@ -28,5 +28,7 @@
 ├─◈ <a href="https://github.com/jonasajato/produto_preco">Liste 3 produtos com valores e o sistema vai imprimir qual é o mais caro</a><br>
 ├─◈ <a href="https://github.com/jonasajato/fatorar">Fatorar um número</a><br>
 ├─◈ <a href="https://github.com/jonasajato/switch_case.ex">Uso de Switch Case</a><br>
+├─◈ <a href="https://github.com/jonasajato/op_logical_2">Operadores Lógicos: Lista nomes e sexo e imprime quantidades</a><br>
+├─◈ <a href="https://github.com/jonasajato/random.ex">Uso de RANDOM para geradores aleatórios</a><br>
 │<br>
 └───────────────────────────────▰▰▰<br>
