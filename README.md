@@ -46,3 +46,9 @@
 ├─◈ <a href="https://github.com/jonasajato/random.ex">Uso de RANDOM para geradores aleatórios</a><br>
 │<br>
 └───────────────────────────────▰▰▰<br>
+
+┌──┤ <strong>Projetos em Java Pessoais</strong> ├───────▰▰▰<br>
+│<br>
+├─◈ <a href="https://github.com/jonasajato/media_final">Projeto pessoal onde soma as avaliações e imprime se o aluno foi aprovado</a><br>
+│<br>
+└───────────────────────────────▰▰▰<br>
