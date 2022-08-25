@@ -19,6 +19,7 @@
 ┌──┤ <strong>Cursos</strong> ├─────────▰▰▰ <br>
 │<br>
 ├─▣ Estudante de Desenvolvimento de Sistemas - Senac - SC, atual;<br>
+├─▣ Estudante de Lógica de Programação - IFSUL, atual;<br>
 ├─▣ HTML, CSS e Javascript - Fundação Bradesco, 2021;<br>
 ├─▣ Responsive Web Design - Free Code Camp, 2021<br>
 │<br>
