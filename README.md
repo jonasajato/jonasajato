@@ -1,15 +1,28 @@
 <h1 align="center"><strong> Olá, seja bem vindo! Me chamo Jonas :) </h1></strong>
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
 
+---
+<p align="center"><em>"Um dia, nalgum lugar, uma eternidade após, eu relembraria tudo isto num suspiro: Dois caminhos divergiam numa floresta de outono, e eu, eu escolhi o menos percorrido, e isto fez toda a diferença!"</em></p>
+<p align="center">Robert Lee Frost (1874 - 1963)</p>
+
+
+
 ┌──┤ <strong>Quem Eu Sou</strong> ├─────────▰▰▰ <br>
 │<br>
 ├─▣ Estudante de Desenvolvimento de Sistemas;<br>
-├─▣ Atualmente estudando Java | MySQL | Astah;<br>
+├─▣ Atualmente estudando Java | MySQL | Astah | HTML5 | CSS | JavaScript;<br>
 ├─▣ Professor de Hardware;<br>
 ├─▣ Apaixonado por tecnologia;<br>
 │<br>
 └───────────────────────────────▰▰▰<br>
 
+┌──┤ <strong>Cursos</strong> ├─────────▰▰▰ <br>
+│<br>
+├─▣ Estudante de Desenvolvimento de Sistemas - Senac - SC, atual;<br>
+├─▣ HTML, CSS e Javascript - Fundação Bradesco, 2021;<br>
+├─▣ Responsive Web Design - Free Code Camp, 2021<br>
+│<br>
+└───────────────────────────────▰▰▰<br>
 
 ┌──┤ <strong>Redes Sociais</strong> ├─────────▰▰▰<br>
 │<br>
