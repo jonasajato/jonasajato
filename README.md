@@ -1,4 +1,4 @@
-<h1 align="center"><strong> Olá, seja bem vindo! Me chamo <em><u>Jonas</u></em> :) </h1></strong>
+<h1 align="center"><strong> Olá, seja bem vindo! Me chamo Jonas :) </h1></strong>
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
 
 ┌──┤ <strong>Quem Eu Sou</strong> ├─────────▰▰▰ <br>
