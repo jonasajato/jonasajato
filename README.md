@@ -44,11 +44,16 @@
 ├─◈ <a href="https://github.com/jonasajato/switch_case.ex">Uso de Switch Case</a><br>
 ├─◈ <a href="https://github.com/jonasajato/op_logical_2">Operadores Lógicos: Lista nomes e sexo e imprime quantidades</a><br>
 ├─◈ <a href="https://github.com/jonasajato/random.ex">Uso de RANDOM para geradores aleatórios</a><br>
+├─◈ <a href="https://github.com/jonasajato/calculadora">Calculadora simples</a><br>
+├─◈ <a href="https://github.com/jonasajato/senha_pc">Digite a senha para desligar o PC</a><br>
+├─◈ <a href="https://github.com/jonasajato/gasto_combustivel">Calcula o gasto de combustível</a><br>
+├─◈ <a href="https://github.com/jonasajato/ParImpar">Digite um número para saber se ele é PAR ou IMPAR</a><br>
 │<br>
 └───────────────────────────────▰▰▰<br>
 
 ┌──┤ <strong>Projetos em Java Pessoais</strong> ├───────▰▰▰<br>
 │<br>
 ├─◈ <a href="https://github.com/jonasajato/media_final">Projeto pessoal onde soma as avaliações e imprime se o aluno foi aprovado</a><br>
+├─◈ <a href="https://github.com/jonasajato/vendas_comissao">Sistema de vendas simples que adiciona 15% das vendas como comissão ao salário do vendedor</a><br>
 │<br>
 └───────────────────────────────▰▰▰<br>
