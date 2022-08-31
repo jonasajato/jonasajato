@@ -20,7 +20,7 @@
 │<br>
 ├─▣ Estudante de Desenvolvimento de Sistemas - Senac - SC, atual;<br>
 ├─▣ <a href="https://drive.google.com/file/d/1icqUt4rex12CNU_LoWM8DJ17r4zmZliH/view?usp=sharing">Lógica de Programação - IFSUL</a><br>
-├─▣ <a href="https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDialog.aspx?Pma9iURwx0i%2fErQJHtBlky2w0iZoF%2fZq">HTML, CSS e Javascript - Fundação Bradesco</a><br>
+├─▣ <a href="https://drive.google.com/file/d/1q4FgaKUmOM4EW1_aBCWIDe8mZgc1gUr7/view?usp=sharing">HTML, CSS e Javascript - Fundação Bradesco</a><br>
 ├─▣ <a href="https://www.freecodecamp.org/certification/jonasajato/responsive-web-design">Responsive Web Design - Free Code Camp</a><br>
 │<br>
 └───────────────────────────────▰▰▰<br>
