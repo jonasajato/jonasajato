@@ -56,5 +56,6 @@
 ├─◈ <a href="https://github.com/jonasajato/media_final">Projeto pessoal onde soma as avaliações e imprime se o aluno foi aprovado</a><br>
 ├─◈ <a href="https://github.com/jonasajato/vendas_comissao">Sistema de vendas simples que adiciona 15% das vendas como comissão ao salário do vendedor</a><br>
 ├─◈ <a href="https://github.com/jonasajato/vendas_comissao_2.0">Atualização do sistema de vendas com novos <i>features</i></a><br>
+├─◈ <a href="https://github.com/jonasajato/tela_login">Tela de <i>login</i> utilizando HTML e CSS</a><br>
 │<br>
 └───────────────────────────────▰▰▰<br>
