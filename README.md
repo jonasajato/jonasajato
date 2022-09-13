@@ -60,12 +60,3 @@
 │<br>
 └───────────────────────────────▰▰▰<br>
 
-┌──┤ <strong>Projetos de Ensino</strong> ├───────▰▰▰<br>
-│<br>
-├─◈ <a>Criei o OneTechStop para ensinar tutoriais em Java para quem possui interesse em aprender de forma gratuita.<br>
-├─◈ <a>Todos os dias vou atualizar com um tutorial novo.</a><br>
-├─◈ <a href="https://github.com/onetechstop">Clique aqui para acessar a página do GitHub do OneTechStop!</a><br>
-├─◈ <a>Estou montando um repositório sobre manutenção de computadores, tema do qual leciono, para auxiliar quem precisa.</a><br>
-├─◈ <a>Em breve o link estará disponível.</a><br>
-│<br>
-└───────────────────────────────▰▰▰<br>
