@@ -37,7 +37,7 @@
 
 ┌──┤ <strong>Projeto Integrador - SENAC</strong> ├───────▰▰▰<br>
 │<br>
-├─◈ <a href="https://github.com/jonasajato/Sistema_Logistica">Projeto Integrador SENAC (Sistema de Logística - em atualização)</a><br>
+├─◈ <a href="https://github.com/jonasajato/Sistema_Cadastro_Entregadores1">Projeto Integrador SENAC (Sistema de Cadastro de Entregadores - em atualização)</a><br>
 │<br>
 └───────────────────────────────▰▰▰<br>
 
