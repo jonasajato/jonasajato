@@ -16,9 +16,10 @@
 │<br>
 └───────────────────────────────▰▰▰<br>
 
-┌──┤ <strong>Cursos</strong> ├─────────▰▰▰ <br>
+┌──┤ <strong>Formação</strong> ├─────────▰▰▰ <br>
 │<br>
 ├─▣ Estudante de Desenvolvimento de Sistemas - Senac - SC, atual;<br>
+├─▣ Estudante de Desenvolvimento Web - IFSC - SC, atual;<br>
 ├─▣ <a href="https://drive.google.com/file/d/1icqUt4rex12CNU_LoWM8DJ17r4zmZliH/view?usp=sharing">Lógica de Programação - IFSUL</a><br>
 ├─▣ <a href="https://drive.google.com/file/d/1q4FgaKUmOM4EW1_aBCWIDe8mZgc1gUr7/view?usp=sharing">HTML, CSS e Javascript - Fundação Bradesco</a><br>
 ├─▣ <a href="https://www.freecodecamp.org/certification/jonasajato/responsive-web-design">Responsive Web Design - Free Code Camp</a><br>
@@ -41,23 +42,6 @@
 │<br>
 └───────────────────────────────▰▰▰<br>
 
-┌──┤ <strong>Projetos em Java Construidos em Aula</strong> ├───────▰▰▰<br>
-│<br>
-├─◈ <a href="https://github.com/jonasajato/Triangulo">Definir tipo de triângulo com base nos dados inseridos pelo usuário</a><br>
-├─◈ <a href="https://github.com/jonasajato/op_logical_1">Operadores Lógicos: retorna True ou False</a><br>
-├─◈ <a href="https://github.com/jonasajato/quiz">Um quiz de perguntas e respostas</a><br>
-├─◈ <a href="https://github.com/jonasajato/produto_preco">Liste 3 produtos com valores e o sistema vai imprimir qual é o mais caro</a><br>
-├─◈ <a href="https://github.com/jonasajato/fatorar">Fatorar um número</a><br>
-├─◈ <a href="https://github.com/jonasajato/switch_case.ex">Uso de Switch Case</a><br>
-├─◈ <a href="https://github.com/jonasajato/op_logical_2">Operadores Lógicos: Lista nomes e sexo e imprime quantidades</a><br>
-├─◈ <a href="https://github.com/jonasajato/random.ex">Uso de RANDOM para geradores aleatórios</a><br>
-├─◈ <a href="https://github.com/jonasajato/calculadora">Calculadora simples</a><br>
-├─◈ <a href="https://github.com/jonasajato/senha_pc">Digite a senha para desligar o PC</a><br>
-├─◈ <a href="https://github.com/jonasajato/gasto_combustivel">Calcula o gasto de combustível</a><br>
-├─◈ <a href="https://github.com/jonasajato/ParImpar">Digite um número para saber se ele é PAR ou IMPAR</a><br>
-│<br>
-└───────────────────────────────▰▰▰<br>
-
 ┌──┤ <strong>Projetos Web</strong> ├───────▰▰▰<br>
 │<br>
 ├─◈ <a href="https://github.com/jonasajato/tela_login">Tela de <i>login</i> utilizando HTML e CSS</a><br>
@@ -65,7 +49,7 @@
 │<br>
 └───────────────────────────────▰▰▰<br>
 
-┌──┤ <strong>Projetos em Java Pessoais</strong> ├───────▰▰▰<br>
+┌──┤ <strong>Projetos em Java</strong> ├───────▰▰▰<br>
 │<br>
 ├─◈ <a href="https://github.com/jonasajato/media_final">Projeto pessoal onde soma as avaliações e imprime se o aluno foi aprovado</a><br>
 ├─◈ <a href="https://github.com/jonasajato/vendas_comissao">Sistema de vendas simples que adiciona 15% das vendas como comissão ao salário do vendedor</a><br>
