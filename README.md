@@ -38,7 +38,7 @@
 
 ┌──┤ <strong>Projeto Integrador - SENAC</strong> ├───────▰▰▰<br>
 │<br>
-├─◈ <a href="https://github.com/jonasajato/Sistema_Cadastro_Entregadores1">Projeto Integrador SENAC (Sistema de Cadastro de Entregadores - em atualização)</a><br>
+├─◈ <a href="https://github.com/jonasajato/Sistema_Cadastro_Entregadores1">Projeto Integrador SENAC (Sistema de Cadastro de Entregadores)</a><br>
 │<br>
 └───────────────────────────────▰▰▰<br>
 
@@ -56,6 +56,7 @@
 ├─◈ <a href="https://github.com/jonasajato/vendas_comissao_2.0">Atualização do sistema de vendas com novos <i>features</i></a><br>
 ├─◈ <a href="https://github.com/jonasajato/program.triangle">Soma as áreas do triângulo e indica qual é a maior</a><br>
 ├─◈ <a href="https://github.com/jonasajato/ProdutoEstoque">Cadastro, entrada e saída de estoque</a><br>
+├─◈ <a href="https://github.com/jonasajato?tab=repositories">Veja aqui outros projetos em Java</a><br>
 │<br>
 └───────────────────────────────▰▰▰<br>
 
