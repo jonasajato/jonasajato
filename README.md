@@ -46,6 +46,7 @@
 │<br>
 ├─◈ <a href="https://github.com/jonasajato/tela_login">Tela de <i>login</i> utilizando HTML e CSS</a><br>
 ├─◈ <a href="https://github.com/jonasajato/site_universidade_html">Site de universidade com HTML puro</a><br>
+├─◈ <a href="https://jonasajato.github.io/Projeto_Jogos_Texto/index.html">Projeto de Jogos Baseados em Texto</a><br>
 │<br>
 └───────────────────────────────▰▰▰<br>
 
