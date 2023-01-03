@@ -28,7 +28,6 @@
 
 ┌──┤ <strong>Redes Sociais</strong> ├─────────▰▰▰<br>
 │<br>
-├─◈ <a href="https://api.whatsapp.com/send?phone=5549999063652">Whatsapp</a><br>
 ├─◈ <a href="https://www.instagram.com/jonas.a.jato/">Instagram</a><br>
 ├─◈ <a href="https://www.facebook.com/jonasajato">Facebook</a><br>
 ├─◈ <a href="https://www.linkedin.com/in/jonasajato/">LinkedIn</a><br>
